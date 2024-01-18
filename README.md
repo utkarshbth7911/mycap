@@ -1,0 +1,2 @@
+# mycap
+Project of C
